@@ -1,8 +1,9 @@
-@import url(/projeto002/assets/css/variables.css);
-@import url(/projeto002/assets/css/fonts.css);
-@import url(/projeto002/assets/css/main.css);
-@import url(/projeto002/assets/css/section.css);
-@import url(/projeto002/assets/css/aside.css);
+@import url('variables.css');
+@import url('fonts.css');
+@import url('main.css');
+@import url('section.css');
+@import url('aside.css');
+
 
 
 
@@ -32,7 +33,7 @@ html {
 }
 
 body {
-    background-image: url("/projeto002/assets/image/pixel-fundo.png");
+    background-image: url('../image/pixel-fundo.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
