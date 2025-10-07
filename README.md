@@ -21,4 +21,4 @@ HTML5 • CSS3 • JavaScript • Font Awesome
 ## 🚀 Como usar
 1. Clone o repositório  
    ```bash
-   git clone https://github.com/seuusuario/pixel-login.git
+   git clone (https://github.com/lalandrade/pixel-login.git)
