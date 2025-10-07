@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "PixelifySans-Regular";
+    src: url("../fonts/PixelifySans-Regular.ttf");
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "PixelifySans-Medium";
+    src: url("../fonts/PixelifySans-Medium.ttf");
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+}

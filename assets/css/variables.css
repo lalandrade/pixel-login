@@ -1,0 +1,24 @@
+:root {
+
+/* Cores */
+--bege-claro: #F5E6C4;
+--marrom: #8B5A2B;
+--verde: #4CAF50;
+--azul: #2196F3;
+--vermelho: #F44336;
+--amarelo: #FFEB3B;
+--cinza-escuro: #333333;
+--branco: #FFFFFF;
+
+
+  /* Botões */
+--btn-primary: #0c5f38;    /* Botão principal (Cadastrar / Entrar) */
+--btn-secondary: #fff;     /* Texto ou botão transparente */
+--btn-hover: #39926d;      /* Hover do botão */
+
+
+
+/* Tipografia */
+--font-body: "PixelifySans-Regular", sans-serif;
+--font-heading: "PixelifySans-Medium", sans-serif;
+}
